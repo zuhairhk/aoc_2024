@@ -35,7 +35,6 @@ with open('d1_input.txt', 'r') as file:
         left, right = line.split()
         l1.append(int(left))
         l2.append(int(right))
-
 # Test Output for P1
 #print(find_dist(l1=l1,l2=l2))
 
